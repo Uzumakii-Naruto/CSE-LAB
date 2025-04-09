@@ -1,0 +1,63 @@
+body {
+    background-color: white;
+    font-family: Arial, sans-serif;
+    padding: 20px;
+  }
+  
+  .newspaper {
+    background-color: white;
+    width: 600px;
+    padding: 20px;
+    border: 2px solid red;
+  }
+  
+  h1 {
+    font-size: 30px;
+  }
+  
+  .blue {
+    color:red;
+  }
+  
+  .brown {
+    color: red;
+  }
+  
+  .headline {
+    color:darkmagenta;
+    font-size: 20px;
+    margin-top: 10px;
+  }
+  
+  .content {
+    display: flex;
+    margin-top: 20px;
+  }
+  
+  .big-box {
+    background-color:grey;
+    width: 60%;
+    height: 150px;
+    margin-right: 20px;
+  }
+  
+  .text-box p {
+    background-color:white;
+    margin: 5px 0;
+    height: 15px;
+  }
+  
+  .bottom {
+    margin-top: 30px;
+  }
+  
+  .small-box {
+    background-color:grey;
+    width: 100%;
+    height: 50px;
+    margin-bottom: 10px;
+  }
+  
+  .footer-text {
+    color:red;
+  }
